@@ -1,0 +1,14 @@
+C:\Users\ROG STRIX\Desktop\Lahiye\HumanResource(Lahiye isi)\HumanResource(Lahiye isi)\bin\Debug\HumanResource(Lahiye isi).exe.config
+C:\Users\ROG STRIX\Desktop\Lahiye\HumanResource(Lahiye isi)\HumanResource(Lahiye isi)\bin\Debug\HumanResource(Lahiye isi).exe
+C:\Users\ROG STRIX\Desktop\Lahiye\HumanResource(Lahiye isi)\HumanResource(Lahiye isi)\bin\Debug\HumanResource(Lahiye isi).pdb
+C:\Users\ROG STRIX\Desktop\Lahiye\HumanResource(Lahiye isi)\HumanResource(Lahiye isi)\obj\Debug\HumanResource(Lahiye isi).csprojAssemblyReference.cache
+C:\Users\ROG STRIX\Desktop\Lahiye\HumanResource(Lahiye isi)\HumanResource(Lahiye isi)\obj\Debug\HumanResource(Lahiye isi).csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\Desktop\Lahiye\HumanResource(Lahiye isi)\HumanResource(Lahiye isi)\obj\Debug\HumanResource(Lahiye isi).exe
+C:\Users\ROG STRIX\Desktop\Lahiye\HumanResource(Lahiye isi)\HumanResource(Lahiye isi)\obj\Debug\HumanResource(Lahiye isi).pdb
+C:\Users\Baku\Desktop\nahid\ConsoleApp-Lahiye\HumanResource(Lahiye isi)\bin\Debug\HumanResource(Lahiye isi).exe.config
+C:\Users\Baku\Desktop\nahid\ConsoleApp-Lahiye\HumanResource(Lahiye isi)\bin\Debug\HumanResource(Lahiye isi).exe
+C:\Users\Baku\Desktop\nahid\ConsoleApp-Lahiye\HumanResource(Lahiye isi)\bin\Debug\HumanResource(Lahiye isi).pdb
+C:\Users\Baku\Desktop\nahid\ConsoleApp-Lahiye\HumanResource(Lahiye isi)\obj\Debug\HumanResource(Lahiye isi).csprojAssemblyReference.cache
+C:\Users\Baku\Desktop\nahid\ConsoleApp-Lahiye\HumanResource(Lahiye isi)\obj\Debug\HumanResource(Lahiye isi).csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\nahid\ConsoleApp-Lahiye\HumanResource(Lahiye isi)\obj\Debug\HumanResource(Lahiye isi).exe
+C:\Users\Baku\Desktop\nahid\ConsoleApp-Lahiye\HumanResource(Lahiye isi)\obj\Debug\HumanResource(Lahiye isi).pdb
